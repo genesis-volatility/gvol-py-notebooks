@@ -36,3 +36,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Find Edge, Capture Alpha, Slang Size.
 :heart: [gvol.io](www.gvol.io) :heart:
+
+## Example Charts
+
+<img src="images/chart1.png">
+<img src="images/chart2.png">
+<img src="images/chart3.png">
+<img src="images/chart4.png">
