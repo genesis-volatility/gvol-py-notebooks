@@ -38,7 +38,9 @@ Find Edge, Capture Alpha, Slang Size.
 :heart: [gvol.io](www.gvol.io) :heart:
 
 ## Example Charts
-
+<img src="images/pfolio_analyzer_payoff.png">
+<img src="images/pfolio_analyzer_greeks.png">
+<img src="images/chart1.png">
 <img src="images/chart1.png">
 <img src="images/chart2.png">
 <img src="images/chart3.png">
