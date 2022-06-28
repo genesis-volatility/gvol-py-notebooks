@@ -26,7 +26,7 @@ gvol_client = GVol(header='gvol-lite',gvol_api_key=GVOL_API_KEY_LITE)
 ##SELECT EXCHANGE: (Supported exchanges are |deribit|bitcom|okex|delta|)
 exchange = 'deribit'
 
-data = gvol_client.UtilityRealtimeOptionbook(exchange=exchange)
+data = gvol_client.options_orderbook_details(exchange=exchange)
 
 ```
 
