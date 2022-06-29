@@ -9,7 +9,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [gvol](
 
 ```bash
 pip install gvol
+pip install -r requirements.txt
 ```
+
 
 ## Usage
 
