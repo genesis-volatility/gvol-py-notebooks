@@ -1,0 +1,13 @@
+###### Requirements without Version Specifiers ######
+pandas
+python-dotenv
+numpy
+ccxt
+mibian
+scipy
+plotly
+
+
+
+###### Requirements with Version Specifiers ######
+
