@@ -1,4 +1,4 @@
-# GVol API - Lite Jupyter Notebook
+# GVol API - Jupyter Notebook
 
 These notebooks are intended to get you up to speed FAST. Drop in your GVol API key in the notebook and start your analysis.
 Remember to `pip install` dependencies.
